@@ -1,4 +1,4 @@
-package io.github.andremunizr.calculadora.operacao.binaria;
+package java.io.github.andremunizr.calculadora.operacao.binaria;
 
 import org.junit.Test;
 import org.junit.Before;
